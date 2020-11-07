@@ -1,0 +1,43 @@
+nav{
+	font-family: 'Ranchers', cursive;
+	font-size: 20px;
+}
+
+.fondo{
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.gris{
+	background: rgba(0,0,0,0.200);
+}
+
+.top-nav-collapse{
+	background: rgba(0,0,0,0.800)!important;
+}
+.cosa{
+	font-family: 'Lobster', cursive;
+	font-size: 80px;
+	
+}
+
+.algo{
+font-family: 'Lobster', cursive;
+font-size: 0px;
+padding: 10px
+}
+.texto-borde {
+  -webkit-text-stroke: 1px black;
+  color: transparent; 
+}
+
+.fondo2{
+	height: 100vh;
+	background: url(im/ingrediente.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+   clip-path: polygon(0 0, 100% 28%, 100% 75%, 0% 100%);}
+
+}
+
+
